@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.color{
+    background-color: aqua;
+}
+
+.color2{
+    background-color: pink;
+}
+
+.color3{
+    background-color: violet;
+}
+
+.fondo{
+    background-color: black;
+}
+
+.container-perfil{
+    padding-top: 20px;
+}
+
+.foto-perfil{
+    width: 250px;
+    height: 250px;
+}
+
+.nombre{
+    color: white;
+    font-family: 'Combo', cursive;
+    font-size: 70px;
+}
